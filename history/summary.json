@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/depanne.veyxzer.com.ico",
     "slug": "alert-test",
     "status": "up",
-    "uptime": "8.20%",
-    "uptimeDay": "8.20%",
-    "uptimeWeek": "8.20%",
-    "uptimeMonth": "8.20%",
-    "uptimeYear": "8.20%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 716,
     "timeDay": 716,
     "timeWeek": 716,
     "timeMonth": 716,
     "timeYear": 716,
-    "dailyMinutesDown": {
-      "2026-11-01": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
