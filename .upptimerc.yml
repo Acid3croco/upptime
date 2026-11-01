@@ -16,6 +16,46 @@ sites:
     url: https://massif-studio.com/
     expectedStatusCodes:
       - 200
+  - name: x-med
+    url: https://x-med.ia-do-it.com/
+    expectedStatusCodes:
+      - 200
+  - name: devboost
+    url: https://devboost.veyxzer.com/
+    expectedStatusCodes:
+      - 200
+  - name: devboost-evadoit
+    url: https://devboost.evadoit.com/
+    expectedStatusCodes:
+      - 200
+  - name: massifier
+    url: https://massifier.veyxzer.com/
+    expectedStatusCodes:
+      - 200
+  - name: massifier-3
+    url: https://massifier-3.veyxzer.com/
+    expectedStatusCodes:
+      - 200
+  - name: pure-vibe-society
+    url: https://pure-vibe-society.club/
+    expectedStatusCodes:
+      - 200
+  - name: packgame
+    url: https://packgame.veyxzer.com/
+    expectedStatusCodes:
+      - 200
+  - name: bingo
+    url: https://bingo.veyxzer.com/
+    expectedStatusCodes:
+      - 200
+  - name: viz
+    url: https://viz.veyxzer.com/
+    expectedStatusCodes:
+      - 200
+  - name: viz-asso6
+    url: https://viz.asso6.com/
+    expectedStatusCodes:
+      - 200
 
 status-website:
   baseUrl: /upptime
