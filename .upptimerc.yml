@@ -12,10 +12,6 @@ sites:
       - 200
       - 301
       - 302
-  - name: alert-test
-    url: https://depanne.veyxzer.com/login
-    expectedStatusCodes:
-      - 200
 
 status-website:
   baseUrl: /upptime
