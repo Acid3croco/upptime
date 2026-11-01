@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 859,
-    "timeDay": 859,
-    "timeWeek": 859,
-    "timeMonth": 859,
-    "timeYear": 859,
+    "time": 937,
+    "timeDay": 937,
+    "timeWeek": 937,
+    "timeMonth": 937,
+    "timeYear": 937,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1589,
-    "timeDay": 1589,
-    "timeWeek": 1589,
-    "timeMonth": 1589,
-    "timeYear": 1589,
+    "time": 1581,
+    "timeDay": 1581,
+    "timeWeek": 1581,
+    "timeMonth": 1581,
+    "timeYear": 1581,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "alert-test",
+    "url": "https://depanne.veyxzer.com/login",
+    "icon": "https://icons.duckduckgo.com/ip3/depanne.veyxzer.com.ico",
+    "slug": "alert-test",
+    "status": "down",
+    "uptime": "73.69%",
+    "uptimeDay": "73.69%",
+    "uptimeWeek": "73.69%",
+    "uptimeMonth": "73.69%",
+    "uptimeYear": "73.69%",
+    "time": 789,
+    "timeDay": 789,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 789,
+    "dailyMinutesDown": {
+      "2026-11-01": 0
+    }
   }
 ]
