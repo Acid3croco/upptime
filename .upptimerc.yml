@@ -12,6 +12,10 @@ sites:
       - 200
       - 301
       - 302
+  - name: massif-studio
+    url: https://massif-studio.com/
+    expectedStatusCodes:
+      - 200
 
 status-website:
   baseUrl: /upptime
