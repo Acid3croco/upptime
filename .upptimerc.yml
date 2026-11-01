@@ -1,0 +1,23 @@
+owner: Acid3croco
+repo: upptime
+
+sites:
+  - name: depannemoi
+    url: https://depanne.veyxzer.com/login
+    expectedStatusCodes:
+      - 200
+  - name: mail
+    url: https://mail.veyxzer.com/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+
+status-website:
+  baseUrl: /upptime
+  name: Uptime
+
+secrets:
+  - NOTIFICATION_TELEGRAM
+  - NOTIFICATION_TELEGRAM_BOT_KEY
+  - NOTIFICATION_TELEGRAM_CHAT_ID
