@@ -15,7 +15,7 @@ sites:
   - name: alert-test
     url: https://depanne.veyxzer.com/login
     expectedStatusCodes:
-      - 599
+      - 200
 
 status-website:
   baseUrl: /upptime
